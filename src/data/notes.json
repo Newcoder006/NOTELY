@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Meeting Notes",
+    "description": "Discussion about project milestones",
+    "category": "Work",
+    "createdAt": "2025-01-12T09:00:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Grocery List",
+    "description": "Milk, Eggs, Bread, Coffee",
+    "category": "Personal",
+    "createdAt": "2025-03-03T18:30:00Z"
+  },
+  {
+    "id": 3,
+    "title": "App Idea",
+    "description": "A minimal notes app with humanized features and offline support",
+    "category": "Ideas",
+    "createdAt": "2025-05-10T10:00:00Z"
+  }
+]
