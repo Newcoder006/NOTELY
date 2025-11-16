@@ -132,7 +132,7 @@ npm run dev
 
 App runs at:
 
-http://localhost:5173
+https://notelyfy.netlify.app
 
 3. Build for production
 npm run build
